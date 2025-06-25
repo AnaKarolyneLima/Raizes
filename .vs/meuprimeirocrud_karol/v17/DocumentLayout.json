@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|c:\\users\\anakp\\onedrive\\\u00E1rea de trabalho\\repos\\meuprimeirocrud_karol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|c:\\users\\anakp\\onedrive\\\u00E1rea de trabalho\\repos\\meuprimeirocrud_karol\\entity\\tiposoloentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|solutionrelative:entity\\tiposoloentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|c:\\users\\anakp\\onedrive\\\u00E1rea de trabalho\\repos\\meuprimeirocrud_karol\\dto\\tiposoloinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|solutionrelative:dto\\tiposoloinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|c:\\users\\anakp\\onedrive\\\u00E1rea de trabalho\\repos\\meuprimeirocrud_karol\\contracts\\repository\\itiposolorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|solutionrelative:contracts\\repository\\itiposolorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|c:\\users\\anakp\\onedrive\\\u00E1rea de trabalho\\repos\\meuprimeirocrud_karol\\entity\\movimentoarmazenamentoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|solutionrelative:entity\\movimentoarmazenamentoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|c:\\users\\anakp\\onedrive\\\u00E1rea de trabalho\\repos\\meuprimeirocrud_karol\\dto\\movimentoarmazenamentoinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|solutionrelative:dto\\movimentoarmazenamentoinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|c:\\users\\anakp\\onedrive\\\u00E1rea de trabalho\\repos\\meuprimeirocrud_karol\\contracts\\repository\\imovimentoarmazenamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|solutionrelative:contracts\\repository\\imovimentoarmazenamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|c:\\users\\anakp\\onedrive\\\u00E1rea de trabalho\\repos\\meuprimeirocrud_karol\\repository\\movimentoarmazenamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|solutionrelative:repository\\movimentoarmazenamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|c:\\users\\anakp\\onedrive\\\u00E1rea de trabalho\\repos\\meuprimeirocrud_karol\\infrastructure\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DC3079-12CD-4454-AE5C-6571FE11CA98}|meuprimeirocrud_karol.csproj|solutionrelative:infrastructure\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovimentoArmazenamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Repository\\MovimentoArmazenamentoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MovimentoArmazenamentoRepository.cs",
+              "ToolTip": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Repository\\MovimentoArmazenamentoRepository.cs",
+              "RelativeToolTip": "Repository\\MovimentoArmazenamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:02:54.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovimentoArmazenamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Contracts\\Repository\\IMovimentoArmazenamentoRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\Repository\\IMovimentoArmazenamentoRepository.cs",
+              "ToolTip": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Contracts\\Repository\\IMovimentoArmazenamentoRepository.cs",
+              "RelativeToolTip": "Contracts\\Repository\\IMovimentoArmazenamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:59:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimentoArmazenamentoInsertDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\DTO\\MovimentoArmazenamentoInsertDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\MovimentoArmazenamentoInsertDTO.cs",
+              "ToolTip": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\DTO\\MovimentoArmazenamentoInsertDTO.cs",
+              "RelativeToolTip": "DTO\\MovimentoArmazenamentoInsertDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:53:49.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimentoArmazenamentoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Entity\\MovimentoArmazenamentoEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\MovimentoArmazenamentoEntity.cs",
+              "ToolTip": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Entity\\MovimentoArmazenamentoEntity.cs",
+              "RelativeToolTip": "Entity\\MovimentoArmazenamentoEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:35:19.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITipoSoloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Contracts\\Repository\\ITipoSoloRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\Repository\\ITipoSoloRepository.cs",
+              "ToolTip": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Contracts\\Repository\\ITipoSoloRepository.cs",
+              "RelativeToolTip": "Contracts\\Repository\\ITipoSoloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:28:56.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoSoloInsertDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\DTO\\TipoSoloInsertDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TipoSoloInsertDTO.cs",
+              "ToolTip": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\DTO\\TipoSoloInsertDTO.cs",
+              "RelativeToolTip": "DTO\\TipoSoloInsertDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:26:48.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoSoloEntity.cs",
+              "DocumentMoniker": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Entity\\TipoSoloEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\TipoSoloEntity.cs",
+              "ToolTip": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Entity\\TipoSoloEntity.cs",
+              "RelativeToolTip": "Entity\\TipoSoloEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:24:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Infrastructure\\Connection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Connection.cs",
+              "ToolTip": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Infrastructure\\Connection.cs",
+              "RelativeToolTip": "Infrastructure\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:20:14.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anakp\\OneDrive\\\u00C1rea de Trabalho\\repos\\meuprimeirocrud_karol\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:16:03.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
