@@ -19,5 +19,11 @@ namespace meuprimeirocrud_karol.Infrastructure
                 return await con.ExecuteAsync(sql, obj);
             }
         }
+
+        public async Task<T> ExecuteScalarAsync<T>(string sql, object param = null)
+        {
+            using var connection = GetConnection();
+            return await connection.ExecuteScalarAsync<T>(sql, param);
+        }
     }
 }

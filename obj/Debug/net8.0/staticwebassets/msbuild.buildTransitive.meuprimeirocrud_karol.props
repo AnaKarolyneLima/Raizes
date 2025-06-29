@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\meuprimeirocrud_karol.props" />
+</Project>
